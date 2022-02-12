@@ -1,8 +1,8 @@
 {
-  "prefix": "YOUR_BOT_PREFIX_HERE",
-  "token": "YOUR_BOT_TOKEN_HERE",
-  "permissions": "YOUR_BOT_PERMISSIONS_HERE",
-  "application_id": "YOUR_APPLICATION_ID_HERE",
+  "prefix": "!",
+  "token": "OTQxODYyNjM2MjkzODQ5MTg4.YgcH7w.363rbJlr2fjru2qTT2pd17N4TNA",
+  "permissions": "Administrator",
+  "application_id": "941862636293849188",
   "owners": [
     123456789,
     987654321
